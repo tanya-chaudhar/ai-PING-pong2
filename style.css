@@ -1,0 +1,13 @@
+.heading{
+    margin-top: 0;
+    width : 100%;
+    text-align: center;
+    color: aliceblue;
+}
+.footer{
+    position: fixed;
+    bottom:0;
+    width: 100%;
+    background-color: coral;
+    color:aliceblue
+}
